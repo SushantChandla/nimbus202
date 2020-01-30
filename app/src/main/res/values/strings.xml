@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nimbus 2020</string>
+    <string name="baseurl">https://still-dawn-92078.herokuapp.com</string>
+</resources>
